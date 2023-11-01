@@ -1,12 +1,11 @@
-.cabecalho {
- background-color:var(--cor-cabecalho);
-padding: 1 em;
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+    padding: 1em;
 }
-.container {
- display:flex;
-align-items: center;
+.container{
+    display: flex;
+    align-items: center;
 }
-.container--imagem,.container--frase{
-    padding:
-     1 em;
+.container__imagem, .container__frase {
+    padding: 1em;
 }
